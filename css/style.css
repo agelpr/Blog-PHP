@@ -1,0 +1,30 @@
+body{
+  background-image: url('../img/fondo.png');
+}
+.jumbotron{
+  background-color: deepskyblue;
+}
+.panel-heading{
+  background-color: deepskyblue !important;
+  color: white !important;
+}
+.panel-body{
+  color: #2b2b2b; !important;
+}
+
+.navbar{
+  background-color: #2b2b2b;
+}
+.navbar-brand:link, .navbar-brand:visited{
+    color: white !important;
+}
+.navbar-brand:hover, .navbar-brand:active{
+  color: deepskyblue !important;
+}
+
+#navbar li a:link, #navbar li a:visited{
+    color: white;
+}
+#navbar li a:hover, #navbar li a:active{
+    color: deepskyblue;
+}
